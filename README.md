@@ -4,13 +4,13 @@
 - 🌱 I’m currently studying <a href ="https://www.moro.uni-bonn.de/">M.Sc. Mobile Robotics</a> at the University of Bonn (Incoming)
 - 🤝 Let's collaborate if your interests match!
 
-### Find me in other platforms
+### Reach out in other platforms
 <!-- shields.io
 [![Google Scholar](https://img.shields.io/badge/Scholar-Profile-lightgrey?logo=googlescholar)](google_scholar)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](linkedin) 
 -->
 
-[<img align="left" alt="Email" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" />](email)
+[<img align="left" alt="Email" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" />](mailto:email)
 [<img align="left" alt="Google Scholar" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" />](google_scholar)
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />](linkedin)
 
