@@ -1,7 +1,7 @@
 ## Hi, I'm Ji 👋
 🤖<b>Robotics Researcher</b> | 🎓 <b>Student</b> 
 - 🔭 Interests: Autonomous Navigation, Multi-Robot Systems, AI
-- 🌱 I’m currently studying <a href ="https://www.moro.uni-bonn.de/">M.Sc. Mobile Robotics</a> at the University of Bonn
+- 🌱 I’m currently studying <a href ="https://www.moro.uni-bonn.de/">M.Sc. Mobile Robotics</a> at the University of Bonn (Incoming)
 - 🤝 Let's collaborate if your interests match!
 - 📫 Reach me via s78jjeon@uni-bonn.de
 
