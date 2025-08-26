@@ -4,7 +4,7 @@
 - 🌱 I’m currently studying <a href ="https://www.moro.uni-bonn.de/">M.Sc. Mobile Robotics</a> at the University of Bonn (Incoming)
 - 🤝 Let's collaborate if your interests match!
 
-### Reach out in other platforms
+### Reach out
 <!-- shields.io
 [![Google Scholar](https://img.shields.io/badge/Scholar-Profile-lightgrey?logo=googlescholar)](google_scholar)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](linkedin) 
