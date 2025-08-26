@@ -3,11 +3,20 @@
 - 🔭 Interests: Autonomous Navigation, Multi-Robot Systems, AI, Sim2real
 - 🌱 I’m currently studying <a href ="https://www.moro.uni-bonn.de/">M.Sc. Mobile Robotics</a> at the University of Bonn (Incoming)
 - 🤝 Let's collaborate if your interests match!
-- 📫 Reach me via s78jjeon@uni-bonn.de
 
-## Find me in other platforms
-[![Google Scholar](https://img.shields.io/badge/Scholar-Profile-lightgrey?logo=googlescholar)](https://scholar.google.com/citations?user=P9a8uqoAAAAJ&hl=en&oi=ao)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/ji-jeong/)
+### Find me in other platforms
+<!-- shields.io
+[![Google Scholar](https://img.shields.io/badge/Scholar-Profile-lightgrey?logo=googlescholar)](google_scholar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](linkedin) 
+-->
+
+[<img align="left" alt="Email" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" />](email)
+[<img align="left" alt="Google Scholar" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" />](google_scholar)
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />](linkedin)
+
+[email]: s78jjeon@uni-bonn.de
+[linkedin]: https://www.linkedin.com/in/ji-jeong/
+[google_scholar]: https://scholar.google.com/citations?user=P9a8uqoAAAAJ&hl=en&oi=ao
 
 <!--
 **seekbot/seekbot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
