@@ -1,4 +1,4 @@
-## Howdy, I'm Ji 👋
+## Hello, I'm Ji 👋
 🤖<b>Robotics Researcher</b> | 🎓 <b>Student</b> 
 - 🔭 Interests: Autonomous Navigation, Multi-Robot Systems, AI, Sim2real
 - 🌱 I’m currently studying <a href ="https://www.moro.uni-bonn.de/">M.Sc. Mobile Robotics</a> at the University of Bonn (Incoming)
