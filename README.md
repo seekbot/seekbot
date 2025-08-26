@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi, I'm Ji 👋
+🤖<b>Robotics Researcher</b> | 🎓 <b>Student</b> 
+- 🔭 Interests: Autonomous Navigation, Multi-Robot Systems, AI
+- 🌱 I’m currently studying <a href ="https://www.moro.uni-bonn.de/">M.Sc. Mobile Robotics</a> at the University of Bonn
+- 🤝 Let's collaborate if your interests match!
+- 📫 Reach me via s78jjeon@uni-bonn.de
+
+## Find me in other platforms
+[![Google Scholar](https://img.shields.io/badge/Scholar-Profile-lightgrey?logo=googlescholar)](https://scholar.google.com/citations?user=P9a8uqoAAAAJ&hl=en&oi=ao)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/ji-jeong/)
 
 <!--
 **seekbot/seekbot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
