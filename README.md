@@ -1,7 +1,7 @@
 ## Hello, I'm Ji 👋
-🤖<b>Robotics Researcher</b> | 🎓 <b>Student</b> 
+🤖<b> Emerging Robotics Researcher</b> | 🎓 <b>Life-long Student</b> 
 - 🔭 Interests: Autonomous Navigation, Multi-Robot Systems, AI, Sim2real
-- 🌱 I’m currently studying <a href ="https://www.moro.uni-bonn.de/">M.Sc. Mobile Robotics</a> at the University of Bonn (Incoming)
+- 🌱 I’m currently studying <a href ="https://www.moro.uni-bonn.de/">M.Sc. Mobile Robotics</a> at the University of Bonn
 - 🤝 Let's collaborate if your interests match!
 
 ### Also check out
